@@ -1,0 +1,3 @@
+### Data Collection for Strava
+
+Due to the terms of use for Strava Data, we are unable to share the raw Strava trajectories.  We are however, able to share the identifiers (IDs) of the Strava Activities that were used in our analysis.  These IDs are stored in the file `strava_activity_ids.csv`. These can be 're-hydrated' (to use an old twitter API term) to get the full JSON activity files using the PHP script `getStravaActivity_AGILE.php`.
