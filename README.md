@@ -1,0 +1,1 @@
+ Here are the scripts for the Mobility Vitality paper. This repository contains all data collection and analysis in the paper. Please run coding files in order, as you will need the former file in later code.
