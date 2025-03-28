@@ -2,4 +2,4 @@ After downloading the dataset, extract all data files into the same folder as yo
 
 Here are the scripts for cleaning and doing STA analysis for these four datasets. Please run the codes in order, as you will need the former file in the latter code, especially for LIME data.
 
-For each type of data cleaning script, it may take more than 3 days to run. The rough time is at the beginning of the cell, if it's going to take a long time.
+For each type of data cleaning script, it may take more than 3 days to run. 
